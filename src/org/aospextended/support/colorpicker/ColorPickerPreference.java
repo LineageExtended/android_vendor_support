@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package org.aospextended.support.colorpicker;
+package com.lineageextended.support.colorpicker;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -36,7 +36,7 @@ import android.widget.LinearLayout;
 
 import androidx.preference.*;
 
-import org.aospextended.support.R;
+import com.lineageextended.support.R;
 
 /**
  * A preference type that allows a user to choose a time
